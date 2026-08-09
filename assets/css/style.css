@@ -836,10 +836,19 @@ button {
     margin: 0;
   }
   .opr-hero__headline {
-    font-size: 56px;
-    line-height: 66px;
+    font-size: 40px;
+    line-height: 50px;
     margin-bottom: 1rem;
     letter-spacing: -1px;
+  }
+  .opr-experts__title {
+    font-size: 40px;
+        line-height: 50px;
+
+  }
+  .opr-think__title {
+        font-size: 40px;
+        line-height: 50px;
   }
   .opr-hero__description {
     font-size: 18px;
